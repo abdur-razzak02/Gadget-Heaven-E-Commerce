@@ -1,0 +1,225 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "IPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/0Cqc1Fp/iphone-14pro.jpg",
+    "category": "Mobile",
+    "price": 1199.99,
+    "description": "Flagship smartphone with high-resolution camera and fast performance.",
+    "Specification": [
+      "6.5-inch OLED display",
+      "Triple-lens camera",
+      "256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 2,
+    "product_title": "Dell Quantum X15",
+    "product_image": "https://i.ibb.co.com/54DHtSH/laptop.jpg",
+    "category": "Laptop",
+    "price": 849.99,
+    "description": "Lightweight ultrabook with a long-lasting battery and powerful processor.",
+    "Specification": ["Intel i7", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 3,
+    "product_title": "Visionary Watch",
+    "product_image": "https://i.ibb.co.com/RDCzgjP/smart-watch.png",
+    "category": "Smart Watch",
+    "price": 199.99,
+    "description": "Smartwatch with fitness tracking, heart rate monitor, and GPS.",
+    "Specification": [
+      "AMOLED display",
+      "Water-resistant",
+      "7-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+
+  {
+    "product_id": 4,
+    "product_title": "SilenceBuds",
+    "product_image": "https://i.ibb.co.com/W6wpJ5v/Earbuds.jpg",
+    "category": "Gadget",
+    "price": 79.99,
+    "description": "Wireless noise-cancelling earbuds for immersive sound quality.",
+    "Specification": ["Active noise cancellation", "Wireless charging case"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 18,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co.com/9WPkYkc/Galaxy-S23-Ultra-Green-3380.jpg",
+    "category": "Mobile",
+    "price": 1299.99,
+    "description": "High-performance smartphone with advanced camera features and powerful processor.",
+    "Specification": [
+      "6.8-inch Dynamic AMOLED display",
+      "Quad-lens camera",
+      "512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 5,
+    "product_title": "ASUS ROG Apex X17",
+    "product_image": "https://i.ibb.co.com/8s90VTY/gaming-laptop.jpg",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with dedicated graphics card.",
+    "Specification": ["Intel i9", "32GB RAM", "NVIDIA RTX 3070"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 6,
+    "product_title": "Samsung Galaxy Z Fold5",
+    "product_image": "https://i.ibb.co.com/Pj2zpnj/Galaxy-Z-Flip4.jpg",
+    "category": "Mobile",
+    "price": 1099.99,
+    "description": "Innovative foldable smartphone with a flexible display.",
+    "Specification": ["7.6-inch foldable display", "256GB storage", "5G"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 7,
+    "product_title": "Titan SmartTime",
+    "product_image": "https://i.ibb.co.com/ckKW5Y1/watch.jpg",
+    "category": "Smart Watch",
+    "price": 149.99,
+    "description": "Compact smartwatch with customizable watch faces and fitness tracking.",
+    "Specification": ["Heart rate monitor", "GPS", "Waterproof"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 8,
+    "product_title": "PowerJet Ultra",
+    "product_image": "https://i.ibb.co.com/BCBc8qH/power-bank.jpg",
+    "category": "Gadget",
+    "price": 69.99,
+    "description": "10,000mAh portable charger for fast charging of multiple devices.",
+    "Specification": ["Dual USB ports", "Fast charging", "LED indicator"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 9,
+    "product_title": "Redmi Note 12",
+    "product_image": "https://i.ibb.co.com/Zmr8KmB/smart-phone.png",
+    "category": "Mobile",
+    "price": 199.99,
+    "description": "Affordable smartphone with decent performance and good camera quality.",
+    "Specification": ["6.1-inch display", "64GB storage", "Dual camera"],
+    "availability": false,
+    "rating": 4.1
+  },
+  {
+    "product_id": 10,
+    "product_title": "HP FlexBook X",
+    "product_image": "https://i.ibb.co.com/Wvv6QS7/Convertible-Laptop.jpg",
+    "category": "Laptop",
+    "price": 749.99,
+    "description": "Convertible laptop with a touchscreen and stylus support.",
+    "Specification": ["Intel i5", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 11,
+    "product_title": "Wireless Charging Pad",
+    "product_image": "https://i.ibb.co.com/kXcd8BD/Wireless-Charger.jpg",
+    "category": "Gadget",
+    "price": 59.99,
+    "description": "Sleek wireless charging pad for fast charging compatible devices.",
+    "Specification": ["Fast charging", "Non-slip surface", "LED indicator"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 12,
+    "product_title": "ChronoMaster",
+    "product_image": "https://i.ibb.co.com/kxx9JD7/Premium-Smartwatch.jpg",
+    "category": "Smart Watch",
+    "price": 299.99,
+    "description": "High-end smartwatch with advanced health monitoring and customizable features.",
+    "Specification": ["ECG monitoring", "AMOLED display", "Bluetooth calling"],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": 13,
+    "product_title": "OnePlus Ace 3",
+    "product_image": "https://i.ibb.co.com/jRdChJ3/flagship-phone.png",
+    "category": "Mobile",
+    "price": 699.99,
+    "description": "Top-of-the-line smartphone with best-in-class camera and processor.",
+    "Specification": [
+      "Quad-lens camera",
+      "1TB storage option",
+      "120Hz refresh rate"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 14,
+    "product_title": "Laptop Cooling Pad",
+    "product_image": "https://i.ibb.co.com/WsqVMdf/Laptop-Cooling-Pad.png",
+    "category": "Gadget",
+    "price": 89.99,
+    "description": "Cooling pad for laptops with multiple fan speeds.",
+    "Specification": ["Dual fans", "Adjustable height", "USB powered"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 17,
+    "product_title": "Google Pixel 7 Pro",
+    "product_image": "https://i.ibb.co.com/g7bv6sw/7-pro-white-Recovered.webp",
+    "category": "Mobile",
+    "price": 999.99,
+    "description": "Google's latest smartphone with AI-enhanced camera and clean Android experience.",
+    "Specification": [
+      "6.7-inch LTPO OLED display",
+      "Triple-lens camera",
+      "128GB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 15,
+    "product_title": "Essence Watch",
+    "product_image": "https://i.ibb.co.com/VxyGn31/smart-watch-lte.png",
+    "category": "Smart Watch",
+    "price": 249.99,
+    "description": "Standalone smartwatch with LTE support and app integration.",
+    "Specification": ["LTE connectivity", "Voice assistant", "Music streaming"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 16,
+    "product_title": "Sony Xperia 1 IV",
+    "product_image": "https://i.ibb.co.com/3mRGD1s/PDX-223-black-v01-1.webp",
+    "category": "Mobile",
+    "price": 1099.99,
+    "description": "Premium smartphone with advanced photography features and 4K OLED display.",
+    "Specification": [
+      "6.5-inch 4K OLED display",
+      "Triple-lens camera with Zeiss optics",
+      "256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.4
+  }
+]

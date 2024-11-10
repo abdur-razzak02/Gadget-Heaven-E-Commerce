@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    overflow-y: scroll;
+}
+
+a.active {
+    color: red;
+}
+
+.react-tabs__tab--selected{
+    background-color: #9538E2 !important;
+    border-radius: 5px !important;
+    color: white !important;
+}
